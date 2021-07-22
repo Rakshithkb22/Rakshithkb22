@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Rakshithkb22/Rakshithkb22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rakshith_kb/Rakshith_kb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
